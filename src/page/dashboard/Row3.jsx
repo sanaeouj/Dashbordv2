@@ -20,7 +20,7 @@ const Row3 = () => {
 
         <Pie isDashbord={true} />
         <Typography variant="h6" align="center" sx={{ mt: "15px" }}>
-          $48,352 revenue generated
+          500,000 dhs revenue generated
         </Typography>
         <Typography variant="body2" px={0.7} pb={3} align="center">
           Includes extra misc expenditures and costs

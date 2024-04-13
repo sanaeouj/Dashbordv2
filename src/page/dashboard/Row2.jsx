@@ -34,7 +34,7 @@ const Row2 = () => {
               Revenue Generated
             </Typography>
             <Typography variant="body2" ml={4}>
-              $59,342.32
+              500.000 dhs
             </Typography>
           </Box>
 

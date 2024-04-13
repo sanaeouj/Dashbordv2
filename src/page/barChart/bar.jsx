@@ -5,37 +5,37 @@ import { Box, useTheme } from "@mui/material";
 const data = [
   {
     year: 2019,
-    Spain: 900,
-    France: 1400,
-    Germany: 1700,
+    Rabat: 900,
+    Casablanca: 1400,
+    Marrakech: 1700,
   },
 
   {
     year: 2020,
-    Spain: 1000,
-    France: 1500,
-    Germany: 1800,
+    Rabat: 1000,
+    Casablanca: 1500,
+    Marrakech: 1800,
   },
 
   {
     year: 2021,
-    Spain: 1100,
-    France: 1600,
-    Germany: 1900,
+    Rabat: 1100,
+    Casablanca: 1600,
+    Marrakech: 1900,
   },
 
   {
     year: 2022,
-    Spain: 1200,
-    France: 1700,
-    Germany: 2000,
+    Rabat: 1200,
+    Casablanca: 1700,
+    Marrakech: 2000,
   },
 
   {
     year: 2023,
-    Spain: 1260,
-    France: 1709,
-    Germany: 2080,
+    Rabat: 1260,
+    Casablanca: 1709,
+    Marrakech: 2080,
   },
 ];
 
@@ -45,7 +45,7 @@ const Bar = ({isDashbord = false }) => {
     <Box sx={{ height:isDashbord? "300px": "75vh" }}>
       <ResponsiveBar
         data={data}
-        keys={["Spain", "France", "Germany"]}
+        keys={["Rabat", "Casablanca", "Marrakech"]}
         indexBy="year"
         theme={{
           textColor: theme.palette.text.primary,

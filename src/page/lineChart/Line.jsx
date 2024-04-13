@@ -11,47 +11,47 @@ const data = [
     color: "hsl(4, 70%, 50%)",
     data: [
       {
-        x: "plane",
+        x: "rabat",
         y: 79,
       },
       {
-        x: "helicopter",
+        x: "casablanca",
         y: 28,
       },
       {
-        x: "boat",
+        x: "Jadida",
         y: 150,
       },
       {
-        x: "train",
+        x: "essouira",
         y: 173,
       },
       {
-        x: "subway",
+        x: "Marrakech",
         y: 234,
       },
       {
-        x: "bus",
+        x: "agadir",
         y: 98,
       },
       {
-        x: "car",
+        x: "tanger",
         y: 244,
       },
       {
-        x: "moto",
+        x: "tetouan",
         y: 295,
       },
       {
-        x: "bicycle",
+        x: "Fès",
         y: 287,
       },
       {
-        x: "horse",
+        x: "Meknès",
         y: 157,
       },
       {
-        x: "skateboard",
+        x: "Chefchaouen",
         y: 239,
       },
       {
@@ -65,47 +65,47 @@ const data = [
     color: "hsl(205, 70%, 50%)",
     data: [
       {
-        x: "plane",
+        x: "rabat",
         y: 278,
       },
       {
-        x: "helicopter",
+        x: "casablanca",
         y: 222,
       },
       {
-        x: "boat",
+        x: "Jadida",
         y: 65,
       },
       {
-        x: "train",
+        x: "essouira",
         y: 213,
       },
       {
-        x: "subway",
+        x: "Marrakech",
         y: 89,
       },
       {
-        x: "bus",
+        x: "agadir",
         y: 278,
       },
       {
-        x: "car",
+        x: "tanger",
         y: 231,
       },
       {
-        x: "moto",
+        x: "tetouan",
         y: 47,
       },
       {
-        x: "bicycle",
+        x: "Fès",
         y: 126,
       },
       {
-        x: "horse",
+        x: "Meknès",
         y: 191,
       },
       {
-        x: "skateboard",
+        x: "Chefchaouen",
         y: 95,
       },
       {
@@ -119,47 +119,47 @@ const data = [
     color: "hsl(39, 70%, 50%)",
     data: [
       {
-        x: "plane",
+        x: "rabat",
         y: 3,
       },
       {
-        x: "helicopter",
+        x: "casablanca",
         y: 187,
       },
       {
-        x: "boat",
+        x: "Jadida",
         y: 259,
       },
       {
-        x: "train",
+        x: "essouira",
         y: 294,
       },
       {
-        x: "subway",
+        x: "Marrakech",
         y: 158,
       },
       {
-        x: "bus",
+        x: "agadir",
         y: 146,
       },
       {
-        x: "car",
+        x: "tanger",
         y: 125,
       },
       {
-        x: "moto",
+        x: "tetouan",
         y: 253,
       },
       {
-        x: "bicycle",
+        x: "Fès",
         y: 230,
       },
       {
-        x: "horse",
+        x: "Meknès",
         y: 287,
       },
       {
-        x: "skateboard",
+        x: "Chefchaouen",
         y: 193,
       },
       {
@@ -173,47 +173,47 @@ const data = [
     color: "hsl(179, 70%, 50%)",
     data: [
       {
-        x: "plane",
+        x: "rabat",
         y: 213,
       },
       {
-        x: "helicopter",
+        x: "casablanca",
         y: 271,
       },
       {
-        x: "boat",
+        x: "Jadida",
         y: 22,
       },
       {
-        x: "train",
+        x: "essouira",
         y: 270,
       },
       {
-        x: "subway",
+        x: "Marrakech",
         y: 97,
       },
       {
-        x: "bus",
+        x: "agadir",
         y: 146,
       },
       {
-        x: "car",
+        x: "tanger",
         y: 116,
       },
       {
-        x: "moto",
+        x: "tetouan",
         y: 159,
       },
       {
-        x: "bicycle",
+        x: "Fès",
         y: 165,
       },
       {
-        x: "horse",
+        x: "Meknès",
         y: 210,
       },
       {
-        x: "skateboard",
+        x: "Chefchaouen",
         y: 76,
       },
       {

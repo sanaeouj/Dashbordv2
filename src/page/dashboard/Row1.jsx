@@ -20,8 +20,8 @@ const Row1 = () => {
         icon={<EmailIcon
           sx={{ fontSize: "23px", color: theme.palette.secondary.main }} />}
         title={"12,361"}
-        subTitle={"Emails Sent"}
-        increase={"+14%"}
+        subTitle={"Emails"}
+        increase={"+34%"}
         data={data1} scheme={"nivo"}      />
 
       <Card
@@ -31,8 +31,8 @@ const Row1 = () => {
           />
         }
         title={"431,225"}
-        subTitle={"Sales obtained"}
-        increase={"+21%"}
+        subTitle={"Sales"}
+        increase={"+61%"}
         data={data2}
         scheme={"category10"} 
       />
@@ -56,7 +56,7 @@ const Row1 = () => {
           />
         }
         title={"1,325,134"}
-        subTitle={"Traffic Received"}
+        subTitle={"Traffic"}
         increase={"+43%"}
         data={data4}
         scheme={"dark2"} 

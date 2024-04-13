@@ -80,21 +80,21 @@ const DrawerHeader = styled("div")(({ theme }) => ({
 
 const Array1 = [
   { text: "Dashboard", icon: <HomeOutlinedIcon />, path: "/" },
-  { text: "Manage Team", icon: <PeopleOutlinedIcon />, path: "/team" },
+  { text: "Team", icon: <PeopleOutlinedIcon />, path: "/team" },
   {
-    text: "Contacts Information",
+    text: "Contacts ",
     icon: <ContactsOutlinedIcon />,
     path: "/contacts",
   },
   {
-    text: "Invoices Balances",
+    text: "Invoices",
     icon: <ReceiptOutlinedIcon />,
     path: "/invoices",
   },
 ];
 
 const Array2 = [
-  { text: "Profile Form", icon: <PersonOutlinedIcon />, path: "/form" },
+  { text: "Profile ", icon: <PersonOutlinedIcon />, path: "/form" },
   { text: "Calendar", icon: <CalendarTodayOutlinedIcon />, path: "/calendar" },
   {
     text: "FAQ Page",

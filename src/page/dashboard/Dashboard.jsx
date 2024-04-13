@@ -30,7 +30,6 @@ const Dashboard = () => {
         </Box>
 </Stack>
 
-      <Row1 />
       <Row2 />
       <Row3 />
     </div>
